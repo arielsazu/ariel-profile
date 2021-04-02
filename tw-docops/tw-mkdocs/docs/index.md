@@ -1,30 +1,34 @@
-# Index Page
+# Ariel Sánchez Profile
 
-## Wizeline DocOps Template
+## Overview
+Ariel is a Technical Writer with a background in Literature and Biological Sciences. He has worked producing and reviewing different types of texts for most of his career. 
 
-Welcome to the DocOps Template
+At Wizeline, Ariel has experience writing API documentation, user guides, and content for developer portals.
 
-## Adding Information to the Page
+Before joining Wizeline, Ariel worked for three and a half years as a proofreader for an American translation agency.
 
-Use Markdown to add information to the pages of your site.
+## Education
 
-For example, here is a list:
+- B. A. English Literature - National Autonomous University of Mexico (UNAM) - 2012
+- B. Sc. Biology - National Autonomous University of Mexico (UNAM) - 2017
+- M. A. Philosophy of Science (Science and Technology Studies) - National Autonomous University of Mexico (UNAM) - 2019
 
-1.  Item 1
-2.  Item 2
-3.  Item 3
+## Experience
 
-Here is another list:
+- Proofreader, Avantpage Translations, 2016-2020
 
-* Another item
-* Another item
+- Research Assistant, National Autonomous University of Mexico (UNAM), 2017
 
-## Adding a New Page
+## Skills
 
-Add new pages to your site doing the following:
+- Written English and Spanish
+- Proofreading and editing
+- Style guides
+- Presentation skills
+- Research
 
-1. Create a _.md_ file to the **docs** folder.
-2. Open the **mkdocs.yml** file.
-3. Add the title of the page and the name of the _.md_ file you created under **nav:**.
+## Selected Past Work
 
-To learn more about how to write your documents using MkDocs, refer to the official page [Writing your docs](https://www.mkdocs.org/user-guide/writing-your-docs/).
+- **Developer Portals:** Designed tutorials for creating search queries for a financial information firm.
+- **API Documentation:** Documented REST APIs for a developer portal.
+- **User Guides:** Created a user guide for a financial risk assessment platform.
