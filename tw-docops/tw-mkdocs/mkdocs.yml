@@ -5,6 +5,7 @@ nav:
   - Experience: experience.md
   - Skills: skills.md
   - Selected Past Work: selected_past_work.md
+  - Contact: contact.md
 
 theme:
   name: material
