@@ -1,7 +1,10 @@
 site_name: Wizeline MkDocs Template
 nav:
   - Home: index.md
-  - About: about.md
+  - Education: education.md
+  - Experience: experience.md
+  - Skills: skills.md
+  - Selected Past Work: selected_past_work.md
 
 theme:
   name: material
