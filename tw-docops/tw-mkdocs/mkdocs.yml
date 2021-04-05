@@ -1,4 +1,4 @@
-site_name: Wizeline MkDocs Template
+site_name: Ariel Sánchez - Technical Writer
 nav:
   - Home: index.md
   - Education: education.md
@@ -9,7 +9,6 @@ nav:
 
 theme:
   name: material
-  palette:
-    primary: black
-    accent: indigo
-  logo: images/wizeline_isotype.png
+  logo: images/Dallas_Cowboys_Logo.png
+extra_css:
+  - css/extra.css
