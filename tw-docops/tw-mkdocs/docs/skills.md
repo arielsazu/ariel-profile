@@ -5,6 +5,3 @@
 - Style guides
 - Presentation skills
 - Research
-
-
-- THIS IS AN EXTRA TEST LINE.
